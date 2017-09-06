@@ -1,0 +1,26 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+body {
+  text-align: center;
+  display: inline-block;
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 50;
+  background-image: url("bgtile.png");
+  background-repeat: repeat-x;
+}
+
+div.box{
+    text-align:center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li.hfooter {
+	display: inline-block;
+}
