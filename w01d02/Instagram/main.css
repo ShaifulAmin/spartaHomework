@@ -24,3 +24,6 @@ ul {
 li.hfooter {
 	display: inline-block;
 }
+.frame {
+	background-image: url("frame.png");
+}

@@ -1,0 +1,21 @@
+.body {
+	background-image: url(backgound.jpg);
+}
+
+.jumbo-style{
+	background-color: grey;
+}
+
+
+
+/*Card  thickness border*/
+
+.card {
+	border: 5px 5px 5px 5px;
+	border-style: solid;
+	border-color: #000000;
+	display:inline-block
+
+}
+
+
